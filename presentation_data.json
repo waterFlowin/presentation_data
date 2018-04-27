@@ -1,22 +1,22 @@
 {
-    "name": "<YOUR NAME>",
-    "netlify_subdomain": "<YOUR NETLIFY URL>",
-    "optional_dns": "<YOUR CUSTOM DOMAIN NAME IF YOU HAVE ONE OR PLAN TO USE ONE>"
+    "name": "Clayton Swafford",
+    "netlify_subdomain": "https://app.netlify.com/sites/elated-elion-6dfae3/overview",
+    "optional_dns": "claytonswafford.com",
     "blog_post_1": {
-        "title": "<TITLE1>",
-        "url": "<MEDIUM OR WEB URL>",
-        "keywords": ["<KWD1>","<KWD2>","<KWD3>"]
+        "title": "1st Machine Learning Report",
+        "url": "https://medium.com/@claytonswafford/1st-machine-learning-report-412fa96c4a6",
+        "keywords": ["Machine Learning","Neuroscience","The Connectome"]
     },
     "blog_post_2": {
-        "title": "<TITLE2>",
-        "url": "<MEDIUM OR WEB URL>",
-        "keywords": ["<KWD1>","<KWD2>","<KWD3>"]
+        "title": "Machine Learning for Super Intelligence",
+        "url": "https://medium.com/@claytonswafford/machine-learning-for-super-intelligence-bb38f6d3cc46",
+        "keywords": ["Super Intelligence","Millenium Prize Problems","AlphaZero"]
     },
     "blog_post_3": {
-        "title": "<TITLE3>",
-        "url": "<MEDIUM OR WEB URL>",
-        "keywords": ["<KWD1>","<KWD2>","<KWD3>"]
+        "title": "Preparing & Visualizing Data for Machine Learning",
+        "url": "https://medium.com/@claytonswafford/preparing-visualizing-data-for-machine-learning-e6af1985eb9d",
+        "keywords": ["Data Preparation","Visualization","Fundamentals Beginner"]
     },
-    "my_linkedin": "<URL TO LINKEDIN>",
-    "latex": "<YOUR LATEX (REMEMBER VALID JSON)>"
+    "my_linkedin": "https://www.linkedin.com/in/clayton-swafford-3a1824126/",
+    "latex": "$\begin{bmatrix} 9 & 9 \\ 6 & 10 \\ 5 & 7 \\ \\end{bmatrix} = \begin{bmatrix} 1 & 0 & 1 \\ 0 & 1 & 1 \\ 0 & 0 & 1 \\ \\end{bmatrix} \\cdot \begin{bmatrix} 4 & 2 \\ 1 & 3 \\ 5 & 7 \\ \\end{bmatrix}$"
 }
