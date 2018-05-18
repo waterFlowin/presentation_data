@@ -1,0 +1,5 @@
+{
+    "url": "my-netlify-subdomain.netlify.com/machine-learning-framework.json",
+    "objectives": ["objective-1", "Compute AUC for a set of results", "Manually select test/train/validation", "Use cross_validation library", "Save model parameterization"]
+    "keywords": ["keyword-1", "keyword-2", "keyword-3", "keyword-4", "keyword-5"]
+}
